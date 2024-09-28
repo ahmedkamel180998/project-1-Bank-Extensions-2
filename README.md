@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/f4b1d297-3907-4adb-be44-cfac0a50aa8e
 ## Features
 - **Login System**: A user authentication feature is implemented, requiring users to log in with their credentials to access the system.
 - **User Management**: Manage the list of users allowed to access the system. Admins can add, update, or delete users.
-- - **Data Persistence:** All users information is saved to and retrieved from a file (`users.txt`).
+- **Data Persistence:** All users information is saved to and retrieved from a file (`users.txt`).
 - **Client List:** Display a list of all clients, including account number, pin code, name, phone, and account balance.
 - **Add New Client:** Add new client information such as account number, pin code, name, phone, and balance.
 - **Delete Client:** Remove a client from the system by account number.
